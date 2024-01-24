@@ -39,4 +39,4 @@ https://github.com/AvicennaJr/Concurrency-Presentation
 
 Presented by [Lupyana Mbembati](https://github.com/lupyana). The source material of his presentation is here:
 
-
+- https://www.canva.com/design/DAF5wZwIjU8/SBrQWCVlVQPKvaJUHCPQkQ/view?utm_content=DAF5wZwIjU8&utm_campaign=designshare&utm_medium=link&utm_source=editor
